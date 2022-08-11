@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  word-break: break-word;
+}
+body {
+  margin: 0;
+  background-color: #012c43;
+  font-family: "Open Sans", sans-serif;
+}
